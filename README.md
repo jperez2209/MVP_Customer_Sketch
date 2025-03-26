@@ -3,7 +3,7 @@
 en el archivo requirements.txt se indican las librerías necesarias para correr el aplicativo
 se adjunta script de sql con la estructura de la base de datos (MySQL) necesaria para las operaciones CRUD
 
-##Pasos
+## Pasos
 1. Crear descargar archivos
 2. Abrir la carpeta donde se guardan los archivos mediante el editor de código o IDE  de preferencia
 3. Iniciar una nueva terminal en el IDE
